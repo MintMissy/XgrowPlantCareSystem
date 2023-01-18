@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://mintmissy.github.io/McConfig/"><img src="docs/logo.png" alt="Xgrow Logo" width="200"></a>
+  <a href="https://xgrow.pl"><img src="docs/logo.png" alt="Xgrow Logo" width="200"></a>
   <br>
   Xgrow | Plant Care System
   <br>
