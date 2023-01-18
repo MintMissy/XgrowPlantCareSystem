@@ -2,7 +2,7 @@
   <br>
   <a href="https://mintmissy.github.io/McConfig/"><img src="docs/logo.png" alt="Xgrow Logo" width="200"></a>
   <br>
-  Xgrow | Plant Caring System
+  Xgrow | Plant Care System
   <br>
 </h1>
 
